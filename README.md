@@ -6,7 +6,7 @@ Uploaded:
 
 
 
-Todo:
 
-  We are biulding a jupyter notebook version of Infomation Bottleneck Experiment, please wait.
+
+  We are going to release Deep InfoMax code, please wait.
 
