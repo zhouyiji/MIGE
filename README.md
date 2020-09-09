@@ -1,12 +1,8 @@
 # Mutual Information Gradient Estimation
 
-Uploaded:
+  Requirements:
 
-  Toy Experiment
-
-
-
-
-
-  We are going to release Deep InfoMax code, please wait.
-
+  - pytorch >= 1.2.0
+  - numpy
+  - tqdm
+  - matplotlib
